@@ -1,1 +1,0 @@
-execute as @p[scores={Deaths=3..}] run scoreboard players set @s Deaths 0
